@@ -9,3 +9,15 @@
 
 ### Start mock server
     run -> json-server --watch server/db.json --host [your-ip] --port 4500
+    
+1.Clone the repo
+2.npm i 
+3.npm start
+4.username- store-store-shaurya-prtap
+  password- Jonu@1234  
+    
+    
+    
+    
+    
+    
